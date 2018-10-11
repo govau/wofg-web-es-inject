@@ -101,14 +101,14 @@ def load(lines, config, es):
             log('warn', 'Chunk {i} got exception ({e}) while processing'.format(e=e, i=i))
 
 
-def format_msg(msg, sevirity):
+def format_msg(msg, level):
     '''Simple formatting of messages'''
-    return '{} {} {}'.format(datetime.now(), sevirity.upper(), msg)
+    return '{} {} {}'.format(datetime.now(), level.upper(), msg)
 
 
-def log(sevirity, msg):
+def log(level, msg):
     '''Simple logging display.'''
-    print(format_msg(msg, sevirity))
+    print(format_msg(msg, level))
 
 
 def lc(f):
