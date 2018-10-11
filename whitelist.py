@@ -196,6 +196,7 @@ dta_wl = (
     'm_x-dta-links-clickhere','m_x-dta-links-clickhere-value','m_x-dta-links-clickhere-count',
     'm_x-dta-h1-count','m_x-dta-title-length','m_x-dta-title-length-size','m_x-dta-weasel-words',
     'm_x-dta-weasel-words-count','m_x-dta-plain-english','m_x-dta-plain-english-count',
+    'm_x-dta-non-preferred-terms','m_x-dta-non-preferred-terms-count',
 )
 
 white_keys = std_meta_wl + non_std_meta_wl + non_std_http_wl + std_http_wl + fb_wl + dta_wl
