@@ -11,4 +11,4 @@ Naming convention is as follows:
 | `ca_*` | (Added via filters) |Content auditor check| Content auditor check information| |
 | `h_*`  | `*:` |HTTP header| HTTP headers| |
 | `fb_*` | (Added via filters)|Funnelback-generated Header metadata| Funnelback-inserted HTTP headers| |
-| `ga_*` | Google Analytics 360 Data API|Metadata (name type)|GA Data API for sites using DTA GA360 account (https://beta.dta.gov.au/our-projects/google-analytics-government)| |
+| `ga_*` | Google Analytics 360 Data API|Metadata (name type)|GA Data API for sites using [DTA GA360 account](https://beta.dta.gov.au/our-projects/google-analytics-government)| |
