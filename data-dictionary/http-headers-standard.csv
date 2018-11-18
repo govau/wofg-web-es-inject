@@ -1,0 +1,10 @@
+Elastic search variable,Source variable name,ES variable type,Category,Description
+h_age,Age:,text,HTTP header,
+h_content-language,Content-Language:,keyword,HTTP header,
+h_content-length,Content-Length:,integer,HTTP header,
+h_content-type,Content-Type:,keyword,HTTP header,
+h_date,Date:,text,HTTP header,
+h_expires,Expires:,text,HTTP header,
+h_last-modified,Last-Modified:,text,HTTP header,
+h_server,Server:,keyword,HTTP header,
+h_set-cookie,Set-Cookie:,text,HTTP header,
