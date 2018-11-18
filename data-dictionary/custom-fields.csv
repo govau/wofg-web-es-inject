@@ -1,4 +1,5 @@
 Elastic search variable,Source variable name,ES variable type,Category,Description,Example
+DOCURL,,Keyword,General,Document's URL,
 HOST,(Added via filters),string,General,"The host's domain name, extracted from the URL",www9.health.gov.au
 PORTFOLIO,(Added via filters),string,General,"The portfolio name, looked up from AGOR, based on the top level domain",Health
 REPORT_ID,(Added via filters),date,General,An identifier (currently the date that the crawl was commenced) that is applied to all items that belong to a specific crawl.,
@@ -58,4 +59,3 @@ m_x-dta-linked-feed-url-value,(Added via filters),,Metadata (name type),Contains
 m_dta_function,(Added via filters),,Metadata (name type),Contains a list of all the function metadata extracted from agls.function and aglsterms.function,
 m_dta_agls_function,(Added via filters),,Metadata (name type),"Contains a lower-cased copy of the metadata from agls.function, with values split on ; and ,",
 m_dta_aglsterms_function,(Added via filters),,Metadata (name type),"Contains a lower-cased copy of the metadata from aglsterms.function, with values split on ; and ,",
-DOCURL,,Keyword,General,Document's URL,
