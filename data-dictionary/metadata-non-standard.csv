@@ -1,0 +1,13 @@
+Elastic search variable,Source variable name,ES variable type,Category,Description
+m_generator,"<meta property=""generator"">",String,Metadata (name type),
+m_handheldfriendly,"<meta property=""handheldfriendly"">",Boolean,Metadata (name type),Indicator of compatibility with a mobile devices. Declaration about a displaying of a document without auto-scaling
+m_mobileoptimized,"<meta property=""mobileoptimized"">",String,Metadata (name type),
+m_viewport,"<meta property=""viewport"">",String,Metadata (name type),
+mh_cleartype,"<meta http-equiv=""cleartype"">",Boolean,Metadata (head type),Mobile IE is allows to activate ClearType technology for an aliasing of fonts
+m_rating,"<meta name=""rating"">",String,Metadata (name type),
+m_format-detection,"<meta name=""format-detection"">",String,Metadata (name type),https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+m_langid-exists,"<meta name=""langid-exists"">",Boolean,Metadata (name type),
+m_apple-mobile-web-app-capable,"<meta name=""apple-mobile-web-app-capable"">",Boolean,Metadata (name type),https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+m_apple-mobile-web-app-status-bar-style,"<meta name=""apple-mobile-web-app-status-bar-style"">",String,Metadata (name type),Sets the style of the status bar for a web application in iPhone https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
+m_msapplication-tooltip,"<meta name=""msapplication-tooltip"">",String,Metadata (name type),Provides additional tooltip text that appears when you hover over the Pinned site shortcut in the Windows Start menu or on the desktop in Windows 8 http://msdn.microsoft.com/en-us/library/jj676915(v=vs.85).aspx
+m_application-name,"<meta name=""application-name"">",String,Metadata (name type),Defines the name of the Pinned site application instance in Windows 8 http://msdn.microsoft.com/en-us/library/gg491732(v=vs.85).aspx
