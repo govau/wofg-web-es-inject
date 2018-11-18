@@ -1,0 +1,13 @@
+Elastic search variable,Source variable name,ES variable type,Category,Description
+ga_avgpageloadtime,ga:avgPageLoadTime,Number,Google Analytics Core Reporting v4,Average time taken to load page
+ga_avgtimeonpage,ga:avgTimeOnPage,Number,Google Analytics Core Reporting v4,Average time spent on page
+ga_avgusertimingvaluea,ga:avgUserTimingValue,Number,Google Analytics Core Reporting v4,Average timing value
+ga_bouncerate,ga:bounceRate,Number,Google Analytics Core Reporting v4,Bounce rate %
+ga_exitrate,ga:exitRate,Number,Google Analytics Core Reporting v4,Exit rate %
+ga_hostname,ga:hostname,Text,Google Analytics Core Reporting v4,Hostname
+ga_pagepath,ga:pagePath,Text,Google Analytics Core Reporting v4,Path used to access page
+ga_pageviews,ga:pageviews,Number,Google Analytics Core Reporting v4,Total pageviews
+ga_sessions,ga:sessions,Number,Google Analytics Core Reporting v4,Total number of session
+ga_uniquepageviews,ga:uniquePageViews,Number,Google Analytics Core Reporting v4,Total Unique pageviews
+ga_usertimingsample,ga:userTimingSample,Number,Google Analytics Core Reporting v4,Sampled user timing
+ga_usertimingvalue,ga:userTimingValue,Number,Google Analytics Core Reporting v4,User timing value
