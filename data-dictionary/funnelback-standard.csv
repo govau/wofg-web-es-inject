@@ -1,0 +1,154 @@
+Elastic search variable,Source variable name,ES variable type,Category,Description
+fb_x-funnelback-charset,(Added via filters),keyword,Funnelback-generated Header metadata,The detected character set
+fb_x-funnelback-content-length,(Added via filters),integer,Funnelback-generated Header metadata,The size of the document in bytes
+fb_x-funnelback-filtered-content-type,(Added via filters),keyword,Funnelback-generated Header metadata,
+fb_x-funnelback-total-request-time-band-ms,(Added via filters),keyword,Funnelback-generated Header metadata,The observed response time band (in ms) when the URL was fetched. Note: does not include linked resources.
+fb_x-funnelback-total-request-time-ms,(Added via filters),integer,Funnelback-generated Header metadata,The observed response time (in ms) when the URL was fetched. Note: does not include linked resources.
+aa_x-funnelback-aa-checked,(Added via filters),integer,Accessibility check,Indicates if the document is affected by any accessibility issues
+aa_x-funnelback-aa-domain,(Added via filters),text,Accessibility check,The domain that the page belongs to
+aa_x-funnelback-aa-explicit-failedlevels,(Added via filters),keyword,Accessibility check,
+aa_x-funnelback-aa-failed-occurrences-on-techniques,(Added via filters),integer,Accessibility check,Total number of failing techniques marked as FAILED
+aa_x-funnelback-aa-format,(Added via filters),keyword,Accessibility check,The detected format of the document
+aa_x-funnelback-aa-is-affected,(Added via filters),integer,Accessibility check,
+aa_x-funnelback-aa-occurrences-of-failing-success-criteria,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (all levels)
+aa_x-funnelback-aa-occurrences-of-failing-success-criteria-by-level-a,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (A)
+aa_x-funnelback-aa-occurrences-of-failing-success-criteria-by-level-aa,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (AA
+aa_x-funnelback-aa-occurrences-of-failing-success-criteria-by-level-aaa,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (AAA)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_1_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.1.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_3,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.3)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_4,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.4)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_5,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.5)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_6,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.6)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_7,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.7)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_8,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.8)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_2_9,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.2.9)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_3_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.3.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_3,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.3)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_5,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.5)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_6,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.6)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_7,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.7)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_8,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.8)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-1_4_9,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (1.4.9)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_1_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.1.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_1_3,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.1.3)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_2_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.2.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_10,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.10)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_4,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.4)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_5,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.5)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_6,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.6)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-2_4_9,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (2.4.9)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-3_1_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (3.1.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-3_1_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (3.1.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-3_2_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (3.2.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-3_3_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (3.3.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-3_3_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (3.3.2)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-4_1_1,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (4.1.1)
+aa_x-funnelback-aa-occurrences-of-failing-success-criterion-4_1_2,(Added via filters),integer,Accessibility check,Occurrences of failing success criteria (4.1.2)
+aa_x-funnelback-aa-occurrences-of-technique-aria1,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA1)
+aa_x-funnelback-aa-occurrences-of-technique-aria10,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA10)
+aa_x-funnelback-aa-occurrences-of-technique-aria11,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA11)
+aa_x-funnelback-aa-occurrences-of-technique-aria12,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA12)
+aa_x-funnelback-aa-occurrences-of-technique-aria16,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA16)
+aa_x-funnelback-aa-occurrences-of-technique-aria17,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA17)
+aa_x-funnelback-aa-occurrences-of-technique-aria19,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA19)
+aa_x-funnelback-aa-occurrences-of-technique-aria4,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA4)
+aa_x-funnelback-aa-occurrences-of-technique-aria5,(Added via filters),integer,Accessibility check,Occurrences of failing technique (ARIA5)
+aa_x-funnelback-aa-occurrences-of-technique-f23,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F23)
+aa_x-funnelback-aa-occurrences-of-technique-f25,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F25)
+aa_x-funnelback-aa-occurrences-of-technique-f54,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F54)
+aa_x-funnelback-aa-occurrences-of-technique-f68,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F68)
+aa_x-funnelback-aa-occurrences-of-technique-f74,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F74)
+aa_x-funnelback-aa-occurrences-of-technique-f75,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F75)
+aa_x-funnelback-aa-occurrences-of-technique-f77,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F77)
+aa_x-funnelback-aa-occurrences-of-technique-f8,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F8)
+aa_x-funnelback-aa-occurrences-of-technique-f84,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F84)
+aa_x-funnelback-aa-occurrences-of-technique-f89,(Added via filters),integer,Accessibility check,Occurrences of failing technique (F89)
+aa_x-funnelback-aa-occurrences-of-technique-flash18,(Added via filters),integer,Accessibility check,Occurrences of failing technique (FLASH18)
+aa_x-funnelback-aa-occurrences-of-technique-flash26,(Added via filters),integer,Accessibility check,Occurrences of failing technique (FLASH26)
+aa_x-funnelback-aa-occurrences-of-technique-flash9,(Added via filters),integer,Accessibility check,Occurrences of failing technique (FLASH9)
+aa_x-funnelback-aa-occurrences-of-technique-g1,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G1)
+aa_x-funnelback-aa-occurrences-of-technique-g115,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G115)
+aa_x-funnelback-aa-occurrences-of-technique-g130,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G130)
+aa_x-funnelback-aa-occurrences-of-technique-g133,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G133)
+aa_x-funnelback-aa-occurrences-of-technique-g140,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G140)
+aa_x-funnelback-aa-occurrences-of-technique-g141,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G141)
+aa_x-funnelback-aa-occurrences-of-technique-g148,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G148)
+aa_x-funnelback-aa-occurrences-of-technique-g151,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G151)
+aa_x-funnelback-aa-occurrences-of-technique-g157,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G157)
+aa_x-funnelback-aa-occurrences-of-technique-g158,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G158)
+aa_x-funnelback-aa-occurrences-of-technique-g159,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G159)
+aa_x-funnelback-aa-occurrences-of-technique-g166,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G166)
+aa_x-funnelback-aa-occurrences-of-technique-g170,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G170)
+aa_x-funnelback-aa-occurrences-of-technique-g171,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G171)
+aa_x-funnelback-aa-occurrences-of-technique-g173,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G173)
+aa_x-funnelback-aa-occurrences-of-technique-g54,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G54)
+aa_x-funnelback-aa-occurrences-of-technique-g56,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G56)
+aa_x-funnelback-aa-occurrences-of-technique-g58,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G58)
+aa_x-funnelback-aa-occurrences-of-technique-g60,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G60)
+aa_x-funnelback-aa-occurrences-of-technique-g69,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G69)
+aa_x-funnelback-aa-occurrences-of-technique-g78,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G78)
+aa_x-funnelback-aa-occurrences-of-technique-g8,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G8)
+aa_x-funnelback-aa-occurrences-of-technique-g81,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G81)
+aa_x-funnelback-aa-occurrences-of-technique-g87,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G87)
+aa_x-funnelback-aa-occurrences-of-technique-g88,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G88)
+aa_x-funnelback-aa-occurrences-of-technique-g9,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G9)
+aa_x-funnelback-aa-occurrences-of-technique-g91,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G91)
+aa_x-funnelback-aa-occurrences-of-technique-g93,(Added via filters),integer,Accessibility check,Occurrences of failing technique (G93)
+aa_x-funnelback-aa-occurrences-of-technique-h2,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H2)
+aa_x-funnelback-aa-occurrences-of-technique-h24,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H24)
+aa_x-funnelback-aa-occurrences-of-technique-h25,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H25)
+aa_x-funnelback-aa-occurrences-of-technique-h30,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H30)
+aa_x-funnelback-aa-occurrences-of-technique-h32,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H32)
+aa_x-funnelback-aa-occurrences-of-technique-h33,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H33)
+aa_x-funnelback-aa-occurrences-of-technique-h37,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H37)
+aa_x-funnelback-aa-occurrences-of-technique-h39,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H39)
+aa_x-funnelback-aa-occurrences-of-technique-h42,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H42)
+aa_x-funnelback-aa-occurrences-of-technique-h43,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H43)
+aa_x-funnelback-aa-occurrences-of-technique-h44,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H44)
+aa_x-funnelback-aa-occurrences-of-technique-h49,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H49)
+aa_x-funnelback-aa-occurrences-of-technique-h53,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H53)
+aa_x-funnelback-aa-occurrences-of-technique-h57,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H57)
+aa_x-funnelback-aa-occurrences-of-technique-h58,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H58)
+aa_x-funnelback-aa-occurrences-of-technique-h63,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H63)
+aa_x-funnelback-aa-occurrences-of-technique-h64,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H64)
+aa_x-funnelback-aa-occurrences-of-technique-h65,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H65)
+aa_x-funnelback-aa-occurrences-of-technique-h67,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H67)
+aa_x-funnelback-aa-occurrences-of-technique-h71,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H71)
+aa_x-funnelback-aa-occurrences-of-technique-h73,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H73)
+aa_x-funnelback-aa-occurrences-of-technique-h85,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H85)
+aa_x-funnelback-aa-occurrences-of-technique-h91,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H91)
+aa_x-funnelback-aa-occurrences-of-technique-h93,(Added via filters),integer,Accessibility check,Occurrences of failing technique (H93)
+aa_x-funnelback-aa-occurrences-of-technique-pdf1,(Added via filters),integer,Accessibility check,Occurrences of failing technique (PDF1)
+aa_x-funnelback-aa-occurrences-of-technique-pdf16,(Added via filters),integer,Accessibility check,Occurrences of failing technique (PDF16)
+aa_x-funnelback-aa-occurrences-of-technique-pdf18,(Added via filters),integer,Accessibility check,Occurrences of failing technique (PDF18)
+aa_x-funnelback-aa-occurrences-of-technique-pdf2,(Added via filters),integer,Accessibility check,Occurrences of failing technique (PDF2)
+aa_x-funnelback-aa-occurrences-of-technique-sm1,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM1)
+aa_x-funnelback-aa-occurrences-of-technique-sm11,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM11)
+aa_x-funnelback-aa-occurrences-of-technique-sm12,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM12)
+aa_x-funnelback-aa-occurrences-of-technique-sm13,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM13)
+aa_x-funnelback-aa-occurrences-of-technique-sm14,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM14)
+aa_x-funnelback-aa-occurrences-of-technique-sm2,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM2)
+aa_x-funnelback-aa-occurrences-of-technique-sm6,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM6)
+aa_x-funnelback-aa-occurrences-of-technique-sm7,(Added via filters),integer,Accessibility check,Occurrences of failing technique (SM7)
+aa_x-funnelback-aa-occurrences-of-unique-failing-success-criterions,(Added via filters),integer,Accessibility check,A count of the set of failing success criterions
+aa_x-funnelback-aa-occurrencesoffailingtechniques,(Added via filters),integer,Accessibility check,Total number of failing techniques which resulted in a Success Criterion failing.
+aa_x-funnelback-aa-possibility_of_failure-occurrences-on-techniques,(Added via filters),integer,Accessibility check,Total number of failing techniques marked as POSSIBILITY OF FAILURE
+aa_x-funnelback-aa-passedlevel-a,(Added via filters),integer,Accessibility check,Total number of documents that pass WCAG A
+aa_x-funnelback-aa-passedlevel-aa,(Added via filters),integer,Accessibility check,Total number of documents that pass WCAG AA
+aa_x-funnelback-aa-passedlevel-aaa,(Added via filters),integer,Accessibility check,Total number of documents that pass WCAG AAA
+aa_x-funnelback-aa-passedlevels,(Added via filters),keyword,Accessibility check,WCAG levels passed by the document
+aa_x-funnelback-aa-suspected_failure-occurrences-on-techniques,(Added via filters),integer,Accessibility check,Total number of failing techniques marked as SUSPECTED FAILURE
+aa_x-funnelback-aa-set-of-failing-principles,(Added via filters),integer,Accessibility check,he Set of a principles which failed.
+aa_x-funnelback-aa-set-of-failing-success-criterions,(Added via filters),keyword,Accessibility check,"Set of failing techniques which resulted in a SC failing (e.g. ""H23"", ""H34"")"
+aa_x-funnelback-aa-set-of-failing-techniques,(Added via filters),keyword,Accessibility check,"Set of failing success criterions (e.g. ""1.2.3"", ""2.3.2"")"
+aa_x-funnelback-aa-techniquesareaffectedby,(Added via filters),keyword,Accessibility check,Indicates if a document is affected by ??   Holds values like failed; possibility
+aa_x-funnelback-aa-unaffected,(Added via filters),integer,Accessibility check,Indicates if a document is not affected by any accessibility issues
+ca_x-funnelback-raw-flesch-kincaid-readability-grade,(Added via filters),keyword,Content auditor check,Raw calculated Flesch-Kincaid score for the document
+ca_x-funnelback-rounded-flesch-kincaid-readability-grade,(Added via filters),keyword,Content auditor check,Flesch-Kincaid grade level
+ca_x-funnelback-title-for-duplicate-detection,(Added via filters),text,Content auditor check,Canonicalised title used for duplicate title detection
+ca_x-funnelback-undesirable-text,(Added via filters),text,Content auditor check,List of undesirable text words detected in the document
