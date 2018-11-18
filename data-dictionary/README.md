@@ -11,3 +11,4 @@ Naming convention is as follows:
 |ca_*|(Added via filters)|(varies)|Content auditor check|Fields prefixed with ca_ contain Funnelback content auditor check information|
 |h_*|*:|(varies)|HTTP header|Fields prefixed with h_ are HTTP headers|
 |fb_*|(Added via filters)|(varies)|Funnelback-generated Header metadata|Fields prefixed with fb_ are Funnelback inserted HTTP headers|
+|ga_*|Google Analytics 360|(varies)|Metadata (name type)|Sourced from GA Data API for sites using DTA GA360 account|
